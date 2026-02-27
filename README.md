@@ -1,1 +1,6 @@
-# backend_3ds
+   // if, else, else if, ternário
+   // , <, >=, <=, !=
+   // ||, &&
+
+   let nome = "julius"
+
