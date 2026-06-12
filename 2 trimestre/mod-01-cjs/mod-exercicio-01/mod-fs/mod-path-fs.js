@@ -1,0 +1,9 @@
+
+const fs = require('fs')
+const path = require('node:path')
+
+// resultado ler arquivo caminho pasta arquivo codificador 
+// const arquivo = fs.readFileSync(path.join(__dirname, "/README.MD"), "utf-8")
+const arquivo=fs.readFileSync(path.resolve(__dirname, "/README.MD") , "utf-8")
+console.log(arquivo)
+

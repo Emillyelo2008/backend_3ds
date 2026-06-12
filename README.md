@@ -1,6 +1,13 @@
-   // if, else, else if, ternário
-   // , <, >=, <=, !=
-   // ||, &&
+### Conite minha Festa:
+**Convidado Epeciais
 
-   let nome = "julius"
+-Jow
+
+-Mariah
+
+-Julius
+
+-Ana
+
+*Não chegue atrasado
 
