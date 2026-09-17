@@ -7,6 +7,11 @@ const porta = 3000
 app.get('/', (req, res)=> {
     res.send('Olá, abacaxi!')
 })
-
+app.get('/doces', (req, res)=> {
+    res.send(
+        `<h1>Olá, Morango do Amor<h1>
+            <p>Nossa loja de morangos...</p>`
+    )
+})
 // Liberar a porta do meu computador 
 app.listen(porta, () => { console.log('Servidor está vivo!')})
